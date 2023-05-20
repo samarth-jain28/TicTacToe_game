@@ -1,3 +1,0 @@
-class WD extends duck{
-    
-}

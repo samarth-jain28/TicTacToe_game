@@ -1,3 +1,0 @@
-interface testable{
-    void display();
-}

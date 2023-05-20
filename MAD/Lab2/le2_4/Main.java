@@ -1,6 +1,0 @@
-public class Main{
-	public static void main(String[] args) {
-		Two tw=new Two();
-		System.out.println(tw.x);
-	}
-}
